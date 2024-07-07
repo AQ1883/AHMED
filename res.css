@@ -1,0 +1,167 @@
+@media (min-width: 375px) {
+  .downPage h4 {
+    font-size: 20px;
+  }
+  .historyinfog::before {
+    height: 1481%;
+}
+  .twins{
+    font-size: 12px;
+    border-bottom: #bdbdbd solid 1px;
+    
+}
+  .underPageinfo {
+    font-size: 10px;
+  }
+  .about h2 {
+    font-size: 20px;
+  }
+  .aboutP p {
+    font-size: 15px;
+  }
+  .containerP {
+    width: 350px;
+  }
+  .emailup {
+    font-size: 18px;
+  }
+  .upPage h1 {
+    font-size: 30px;
+  }
+
+  .upPage img {
+    margin-right: 0px;
+    height: 300px;
+  }
+
+  .container {
+    width: 350px;
+    
+  }
+}
+
+@media (min-width: 768px) {
+  .downPage h4 {
+    font-size: 30px;
+  }
+  .historyinfog::before {
+    height: 1229%;
+}
+  .Address{
+    border-top: #bdbdbd solid 1px;
+    border-bottom: #bdbdbd solid 1px;
+}
+  .twins{
+    font-size: 12px;
+    border-bottom: #ffffff solid 1px;
+}
+  .underPageinfo {
+    font-size: 15px;
+  }
+  .about h2 {
+    font-size: 30px;
+  }
+  .aboutP p {
+    font-size: 25px;
+  }
+  .containerP {
+    width: 520px;
+  }
+  .emailup {
+    font-size: 20px;
+  }
+  .upPage h1 {
+    font-size: 40px;
+  }
+  .upPage img {
+    margin-right: 50px;
+    height: 300px;
+  }
+
+  .container {
+    width: 750px;
+    
+  }
+}
+
+@media (min-width: 992px) {
+  .downPage h4 {
+    font-size: 30px;
+  }
+  .Address{
+    border-top: #bdbdbd solid 1px;
+    border-bottom: #bdbdbd solid 1px;
+}
+  .twins{
+    font-size: 15px;
+    border-bottom: #ffffff solid 1px;
+}
+  .underPageinfo {
+    font-size: 15px;
+  }
+  .about h2 {
+    font-size: 30px;
+  }
+  .aboutP p {
+    font-size: 25px;
+  }
+  .containerP {
+    width: 520px;
+  }
+  .emailup {
+    font-size: 25px;
+  }
+  .upPage h1 {
+    font-size: 50px;
+  }
+  .upPage img {
+    margin-right: 50px;
+    height: 300px;
+  }
+
+  .container {
+    width: 970px;
+    
+  }
+}
+
+@media (min-width: 1600px) {
+  .downPage h4 {
+    font-size: 30px;
+  }
+  .Address{
+    border-top: #bdbdbd solid 1px;
+    border-bottom: #bdbdbd solid 1px;
+}
+  .twins{
+    font-size: 15px;
+    border-bottom: #ffffff solid 1px;
+}
+  .underPageinfo {
+    font-size: 15px;
+  }
+  .about h2 {
+    font-size: 30px;
+  }
+  .aboutP p {
+    font-size: 25px;
+  }
+  .containerP {
+    width: 520px;
+  }
+  .emailup {
+    font-size: 40px;
+  }
+  .upPage h1 {
+    font-size: 80px;
+  }
+  .upPage img {
+    height: 400px;
+    margin-right: 50px;
+  }
+
+  .container {
+    width: 1500px;
+    
+  }
+}
